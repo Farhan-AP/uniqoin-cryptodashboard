@@ -45,7 +45,7 @@ Here are some snapshots of the project in action:
 
 1. **Home Page**
    ![image](https://github.com/user-attachments/assets/efc464c0-7658-4403-b755-6a3106eaa54b)
-2. **Market Updates**
+2. **Market Update**
    ![image](https://github.com/user-attachments/assets/e2b0d243-1397-4af2-b02f-3eed5baac586)
 3. **Portfolio Management**
    ![image](https://github.com/user-attachments/assets/65a49f90-d969-4d9a-9ec5-27654377505b)
